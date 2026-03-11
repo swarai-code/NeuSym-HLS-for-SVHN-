@@ -1,4 +1,4 @@
-# NeuSym-HLS: Neurosymbolic Inference Accelerator for SVHN
+# NeuSym-HLS
 
 A complete Python and C++ pipeline that replaces computationally expensive terminal layers of a trained deep neural network with compact analytic expressions discovered via symbolic regression, producing a hybrid neurosymbolic FPGA accelerator with significantly reduced resource utilisation and near-baseline accuracy.
 

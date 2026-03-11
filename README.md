@@ -285,23 +285,7 @@ hls_output/1L_POL/
 └── tcl/synth.tcl               # Vitis HLS synthesis script
 ```
 
----
 
-## Results
-
-| Configuration | Accuracy | LUT | DSP | Latency |
-|--------------|----------|-----|-----|---------|
-| FP32 Baseline | 98.9% | 100% | 100% | — |
-| **SR-1L-POL** | **98.2%** | **5%** | **7%** | **< 1 µs** |
-| SR-1L-SRL | 97.9% | 9% | — | — |
-| SR-1L-SCE | 97.6% | 18% | — | — |
-| SR-2L-POL | 97.4% | 11% | — | — |
-| SR-2L-SRL | 97.1% | 17% | — | — |
-| SR-2L-SCE | 96.8% | 31% | — | — |
-
-> Hardware numbers are post-synthesis estimates on AMD XC7Z020 (53,200 LUTs, 220 DSPs) @ 100 MHz.
-
----
 
 ## University Server / HPC
 

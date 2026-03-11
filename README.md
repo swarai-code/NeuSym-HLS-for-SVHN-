@@ -132,8 +132,8 @@ PySR uses these costs in its `complexity_of_operators` parameter, so the genetic
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/swarai-code/NeuSym-HLS-for-SVHN.git
-cd NeuSym-HLS-for-SVHN
+git clone https://github.com/swarai-code/NeuSym-HLS-for-SVHN-.git
+cd NeuSym-HLS-for-SVHN-
 ```
 
 ### 2. Create a virtual environment
